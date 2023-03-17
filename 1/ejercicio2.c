@@ -8,7 +8,7 @@ int main (){
     printf("ingrese la cotizacion del dolar al dia %d \n", dia_actual);
     scanf("%d", &mayor_cotizacion);
     dia_actual++;
-    for (dia_actual; dia_actual <5 ; dia_actual++)
+    for (dia_actual; dia_actual = 30 ; dia_actual++)
     {
         printf("ingrese la cotizacion del dolar al dia %d \n", dia_actual);
         scanf("%d", &cotizacion_actual);
