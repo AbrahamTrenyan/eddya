@@ -1,0 +1,2 @@
+/* 5. Ingresar la edad y sueldo de los empleados de una empresa hasta que ambas seancero. Calcular y mostrar:a) El promedio de edad de los que ganan más de $10000b) El sueldo de aquellas personas mayores a 58 años, sabiendo quecobran un plus del 5% de su sueldo.c) El porcentaje de empleados cuyo sueldo es menor a 15000, que estáentre 15000 y 20000, y mayor a 20000.
+ */

@@ -1,0 +1,1 @@
+/* 6. Ingresar números hasta que dicho número sea negativo. Por cada número leído,ingresar esa cantidad de números y obtener:a) El promedio de cada lote leído.b) Contar la cantidad de números pares de todos los números leídos. */
